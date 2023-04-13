@@ -1,9 +1,8 @@
-function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
+import React from "react";
+import ChildA from './components/childA'
+
+function App(){
+  <ChildA/>
 }
 
-export default App;
+export default App; 
